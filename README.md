@@ -3,7 +3,7 @@ erudio é um software livre de gestão escolar. Foi desenvolvido originalmente p
 
 # requisitos
 O erudio requer:
-* um servidor web (sério mesmo?) :)
+* um servidor web
 * PHP 5.4.6 ou superior
 * MySQL 5.5.32 ou superior
 
